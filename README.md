@@ -2,7 +2,9 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+developer.android.com/guide/fragments/fragmentmanager
+ualberta-cmput301.github.io/labs/slides/Lab_3_Instructions_Winter_2023.pdf
+androidhub4you.com/2013/02/muftitouch-listview-multi-click.html
 
 ## Verbal Collaboration
 
